@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "5f6c",
+      "firstName": "Abdurasulov",
+      "lastName": "Shoxruz",
+      "email": "shoxruzabdurasulov7@gmail.com",
+      "password": "1234",
+      "rePassword": "1234"
+    },
+    {
+      "id": "50d2",
+      "firstName": "Abdurasulov",
+      "lastName": "Shoxruz",
+      "email": "mavlonbekakhmedov295@gmail.com",
+      "password": "sdefsd",
+      "rePassword": "sdefsd"
+    },
+    {
+      "id": "58d3",
+      "firstName": "Abdurasulov",
+      "lastName": "Shoxruz",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "rePassword": "123456"
+    }
+  ]
+}
